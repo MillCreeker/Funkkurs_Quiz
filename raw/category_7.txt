@@ -1,0 +1,388 @@
+125.Was bezeichnet „SAR“?
+1)Suche und Rettung
+2)Seenotfunkbake
+3)Sanitätsdienst
+4)Radartransponder
+126.Welche Aufgabe hat ein „RCC“ im Seenotfall?
+1)Koordinierung der im Seenotfall zur Verfügung stehenden Kräfte und Abwicklung
+des Notverkehrs
+2)Stationierung von Seenotrettungskreuzern rund um die Uhr
+3)Alarmierung von SAR-Fahrzeugen im Seenotfall über Satellit
+4)Erteilung von Ratschlägen an den Havaristen
+127.Welche Aufgabe hat ein „MRCC“ im Seenotfall?
+1)Koordinierung der im Seenotfall zur Verfügung stehenden Kräfte
+2)Bereithaltung von Rettungsfahrzeugen im Seenotfall
+3)Erarbeitung von Richtlinien für das Verhalten im Seenotfall
+4)Erteilung von Ratschlägen an den Havaristen
+128.Was ist „On-Scene Communication“?
+1)Funkverkehr vor Ort im Seenotfall
+2)Funkverkehr in Reichweite einer Küstenfunkstelle für UKW
+3)Funkverkehr im Hafenfunk (Port Radio)
+4)Funkverkehr von Behördenfahrzeugen
+129.Welche Aufgabe hat der „On-Scene Coordinator“ (OSC) im SAR-Fall?
+1)Leitung der Such- und Rettungsmaßnahmen vor Ort
+2)Kooperation mit der nächstgelegenen Küstenfunkstelle des Revierfunkdienstes
+3)Festlegung der DSC-Kanäle zur Verständigung der SAR-Einheiten
+4)Verbreitung wichtiger SAR-Meldungen rund um die Uhr
+130.Was bedeutet „Funkverkehr vor Ort“?
+1)Funkverkehr zwischen dem Schiff in Not und den Fahrzeugen, die Hilfe leisten sowie
+dem Schiff in Not und dem Fahrzeug, das die Suche und Rettung koordiniert
+2)Funkverkehr zwischen dem Fahrzeug, das die Suche und Rettung koordiniert, und der
+Küstenfunkstelle
+3)Funkverkehr zwischen der Küstenfunkstelle und dem On-Scene Coordinator
+4)Funkverkehr zwischen dem Schiff in Not und in der Nähe befindlichen Luftfunkstellen
+131.Wer darf das Aussenden einer Notmeldung im Seefunkdienst veranlassen?
+1)Fahrzeugführer
+2)Crewmitglied
+3)Rudergänger
+4)Rettungsleitstelle
+132.Auf welchem UKW-Kanal müssen alle mit DSC ausgerüsteten seegehenden Schiffe
+im Weltweiten Seenot- und Sicherheitsfunksystem (GMDSS empfangsbereit sein?
+1)Kanal 70
+2)Kanal 16
+3)Kanal 06
+4)Kanal 10
+133.Wie lautet das Notzeichen im Sprechfunk?
+1)MAYDAY
+2)PAN PAN
+3)DISTRESS
+4)SOS
+134.Womit wird der Notverkehr im Sprechfunk eingeleitet?
+1)MAYDAY
+2)Schiffsname
+3)DISTRESS
+4)SOS
+135.Wann liegt ein Seenotfall vor, der das Aussenden des Notzeichens im Sprechfunk
+rechtfertigt?
+1)Wenn ein Schiff oder eine Person von einer ernsten und unmittelbaren Gefahr bedroht
+ist und sofortige Hilfe benötigt
+2)Wenn ein Schiff manövrierbehindert ist und Hilfe benötigt
+3)Wenn eine nautische Warnnachricht vorliegt, die unbedingt beachtet werden muss
+4)Wenn ein medizinischer Notfall vorliegt, der unmittelbare funkärztliche Beratung
+erfordert
+136.Welche Priorität der Alarmierung ist zu wählen, wenn sich eine Person in
+Lebensgefahr befindet und Hilfe benötigt?
+1)Notfall
+2)Dringlichkeit
+3)Sicherheit
+4)Routine
+137.Welche Frequenzen dürfen neben den Notfrequenzen für die Aussendung einer
+Notmeldung im Seefunkdienst benutzt werden?
+1)Jede andere verfügbare und geeignete Frequenz
+2)UKW Kanal 06 (internationaler Verkehr)
+3)Keine andere Frequenz
+4)Nur Schiff-Schiff-Frequenzen
+138.Auf welchem UKW-Kanal findet der Notverkehr vorzugsweise statt?
+1)Kanal 16
+2)Kanal 70
+3)Kanal 69
+4)Kanal 06
+139.Welche Meldungen dürfen im Weltweiten Seenot- und Sicherheitsfunksystem
+(GMDSS) auf UKW-Kanal 16 (156,8 MHz) übermittelt werden?
+1)Notmeldungen, Dringlichkeitsmeldungen und die Ankündigung von
+Sicherheitsmeldungen
+2)Dringlichkeitsmeldungen und Meldungen im öffentlichen Funkverkehr
+3)Sicherheits-, Dringlichkeitsmeldungen und Nichtöffentlicher Funkverkehr
+4)Notmeldungen und Routinemeldungen
+140.Wann und warum wird die Einleitung eines Notverkehrs wiederholt?
+1)Wenn die aussendende Seefunkstelle keine Antwort auf ihren DSC-Alarm oder ihre
+Notmeldung erhalten hat oder wenn sie es aus anderen Gründen für notwendig hält
+2)Wenn der DSC-Notalarm nur von einer Küstenfunkstelle bestätigt worden ist
+3)Die Einleitung des Notverkehrs darf nicht wiederholt werden, um Fehlalarme zu
+vermeiden
+4)Die Einleitung des Notverkehrs wird nach 6 Minuten wiederholt, wenn keine Bestätigung
+erfolgt ist
+141.An wen soll eine Seefunkstelle den Notalarm für ein anderes in Not befindliches
+Schiff richten?
+1)Grundsätzlich an die nächstgelegene Küstenfunkstelle oder sonst an alle Funkstellen
+2)Grundsätzlich an alle Seefunkstellen in der Nähe
+3)Grundsätzlich an das Maritime Lagezentrum beim Havariekommando
+4)Grundsätzlich an ein Local User Terminal oder sonst an alle Seefunkstellen
+142.Welche Voraussetzung muss eine Seefunkstelle erfüllen, die den Empfang eines
+DSC-Notalarms auf UKW im Sprechfunkverfahren bestätigt?
+1)Sie muss Hilfe leisten können
+2)Eine sichere Funkverbindung muss möglich sein
+3)Sie muss die Seefunkstelle in Not spätestens nach einer Stunde erreichen können
+4)Notalarme werden in jedem Fall bestätigt
+143.Wann darf eine Seefunkstelle, wenn sie Hilfe leisten kann, den Empfang eines
+DSC-Notalarms auf UKW im Sprechfunkverfahren bestätigen?
+1)Nach Bestätigung durch eine Küstenfunkstelle oder einer angemessenen Wartefrist
+2)Sofort nach Empfang des DSC-Notalarms
+3)Nach einer Wartefrist von 3 Minuten
+4)DSC-Notalarme dürfen grundsätzlich nur von Küstenfunkstellen bestätigt werden
+144.Auf welchem UKW-Kanal und in welchem Verfahren bestätigt eine Seefunkstelle den
+auf Kanal 70 empfangenen Notalarm?
+1)Kanal 16, Sprechfunkverfahren
+2)Kanal 70, DSC
+3)Arbeitskanal, Sprechfunkverfahren
+4)Kanal 16, DSC
+145.Wann wird im Seefunkdienst die Aufforderung SILENCE MAYDAY ausgesendet?
+1)Wenn die Funkstelle, die den Notverkehr leitet, störende Funkstellen zur Einhaltung der
+Funkstille auffordert
+2)Wenn die Situation des Schiffes in Not besonders kritisch ist
+3)Wenn die Funkstelle, die den Notverkehr leitet, die Beendigung des Notverkehrs
+ankündigen will
+4)Wenn eine Funkstelle sich besondere Aufmerksamkeit für die Verbreitung einer
+Dringlichkeits- oder Sicherheitsmeldung erbittet
+146.Wer fordert in einem Seenotfall eine störende Funkstelle mit den Wörtern SILENCE
+MAYDAY zur Einhaltung der Funkstille auf?
+1)Die Funkstelle, die den Notverkehr leitet
+2)Die Funkstelle in Not oder eine Hilfe leistende Luftfunkstelle
+3)Die Funkstelle, die die störende Funkstelle als erste empfangen hat
+4)Die Funkstelle, die der störenden Funkstelle nächstgelegen ist
+147.Welche Aufgaben übernimmt die Seenotleitung (Maritime Rescue Co-ordination
+Centre [MRCC]) nach Eingang eines Notalarms?
+1)Koordinierung und Information über die SAR-Maßnahmen
+2)Leitung des Notverkehrs auf Kanal 70
+3)Bestimmung des On-Scene Co-ordinators (OSC)
+4)Überwachung Kanäle 16 und 70 sowie Dokumentation der SAR-Maßnahmen
+148.Auf welchen UKW-Kanälen ist Bremen Rescue Radio empfangsbereit?
+1)Kanal 16 (Sprechfunk), Kanal 70 (DSC)
+2)Kanal 10 (Sprechfunk), Kanal 70 (DSC)
+3)Kanal 16 (Sprechfunk), Kanal 10 (DSC)
+4)Kanal 06 (Sprechfunk), Kanal 70 (DSC)
+149.Nach welchem Betriebsverfahren wird der Funkverkehr in Notfällen zwischen
+Seefunkstellen und SAR-Hubschraubern abgewickelt?
+1)Betriebsverfahren des mobilen Seefunkdienstes
+2)Betriebsverfahren des mobilen Flugfunkdienstes
+3)Betriebsverfahren des Navigationsfunkdienstes
+4)Betriebsverfahren des Revierfunkdienstes
+150.Welche Veröffentlichung enthält Angaben zu Verfahren, Abkürzungen und
+international entwickelte Redewendungen für Notfälle?
+1)Handbuch “Suche und Rettung”
+2)Handbuch „Funkdienst für die Klein- und Sportschifffahrt“
+3)Nachrichten für Seefahrer
+4)Mitteilungen für Seefunkstellen und Schiffsfunkstellen
+151.In welchem Frequenzbereich kann mit SAR-Einheiten Seefunkverkehr abgewickelt
+werden?
+1)UKW-Bereich
+2)UHF-Bereich
+3)MW-Bereich
+4)VLF-Bereich
+152.Im Funkverkehr zwischen Seefunkstellen und SAR-Hubschraubern gilt das
+Betriebsverfahren...
+1)des Seefunkdienstes
+2)des Flugfunkdienstes
+3)der Rettungsdienste
+4)des Binnenschifffahrtsfunks
+153.Auf welchen UKW-Kanälen dürfen zu Sicherheitszwecken Seefunkstellen mit
+SAR-Hubschraubern Funkverkehr vorzugsweise abwickeln?
+1)Kanal 16, Kanal 06
+2)Kanal 16, Kanal 10
+3)Kanal 06, Kanal 10
+4)Kanal 70, Kanal 16
+154.Wodurch werden in der Regel bei einer Rettungsaktion mit SAR Hubschraubern
+die Kanäle 16 und 06 überwacht?
+1)Zweikanal-Überwachung (Dual Watch)
+2)Zwei unabhängige Seefunkgeräte
+3)Regelmäßiges manuelles Umschalten
+4)Bedarfsweises manuelles Umschalten
+155.Welchen UKW-Kanal soll ein Schiff in Not bis zur Ankunft eines SAR-Hubschraubers
+abhören?
+1)Kanal 16
+2)Kanal 06
+3)Kanal 10
+4)Kanal 70
+156.Wie ist zu verfahren, wenn während eines Notverkehrs auf Kanal 16 die Ankündigung
+einer Dringlichkeits- oder Sicherheitsmeldung „An alle Funkstellen“ vorgenommen
+werden soll?
+1)Ankündigung mittels Digitalen Selektivrufs (DSC) auf Kanal 70, Ankündigung während
+einer Pause im Notverkehr auf Kanal 16, Aussendung der Meldung auf einem Schiff-
+Schiff-Kanal
+2)Ankündigung auf Kanal 06, Information an die Küstenfunkstelle/RCC über den Inhalt der
+Meldung auf einem Arbeitskanal
+3)Ankündigung mittels Digitalen Selektivrufs (DSC) auf Kanal 70, Information „An alle
+Funkstellen“ über den Inhalt der Meldung auf Kanal 16
+4)Ankündigung auf Kanal 16 während einer Pause im Notverkehr, Aussendung auf einem
+Schiff-Schiff-Kanal
+157.Was ist zu tun, wenn irrtümlich von einer Seefunkstelle ein Notalarm
+auf Kanal 70 ausgelöst worden ist?
+1)a. Gerät umgehend zurücksetzen
+b. Wenn möglich, den Fehlalarm per DSC zurücknehmen
+c. Mit Meldung auf Kanal 16 „An alle Funkstellen“ den Fehlalarm zurücknehmen
+2)a. Gerät ausschalten, um weitere Sendungen zu verhindern
+b. Eintragung der irrtümlichen Aussendung im Schiffstagebuch
+c. Zuständiges MRCC telefonisch informieren
+3)a. Ankündigung der Rücknahme des Notalarms mit DSC
+b. Mit Meldung auf Kanal 16 „An alle Funkstellen“ den Fehlalarm zurücknehmen
+c. Schiffsführer informieren
+4)a. Gerät umgehend zurücksetzen
+b. Ankündigung der Rücknahme des Notalarms mit DSC
+c. Mit Meldung auf Kanal 13 „An alle Funkstellen“ den Fehlalarm zurücknehmen
+158.Womit können im Notfall nach dem Verlassen des havarierten Schiffes keine
+Such- und Rettungsarbeiten ausgelöst bzw. erleichtert werden?
+1)UKW-Empfänger
+2)Transponder für Suche und Rettung (SART)
+3)Seenotfunkbake (EPIRB)
+4)Handsprechfunkgeräte
+159.Welche Komponenten des Weltweiten Seenot- und Sicherheitsfunksystems (GMDSS)
+werden für die Aussendung von Signalen zur Ortsbestimmung eingesetzt?
+1)SART, EPIRB
+2)NAVTEX, EGC
+3)DSC, EPIRB
+4)NAVTEX, SART
+160.Wo soll eine Satelliten-Seenotfunkbake (EPIRB) an Bord eines Sportbootes installiert
+werden?
+1)Im äußeren Decksbereich
+2)In der Backskiste
+3)In mindestens 1 m Entfernung von Metallteilen
+4)Geschützt unter Deck
+161.Wann darf eine Satelliten-Seenotfunkbake (EPIRB) für eine Aussendung aktiviert
+werden?
+1)Nur im Notfall
+2)Zu Testzwecken
+3)Im Notfall und zu Testzwecken
+4)Beim Herannahen von Rettungsfahrzeugen
+162.Wie kann eine Satelliten-Seenotfunkbake (EPIRB) im Notfall aktiviert werden?
+1)Manuell oder automatisch
+2)Nur manuell
+3)Nur automatisch
+4)Durch das COSPAS-SARSAT-System
+163.Wodurch wird eine EPIRB im Seenotfall automatisch aktiviert?
+[163]
+1)Wasserdruckauslöser
+2)Rüttelkontakt
+3)GPS-Signale
+4)Radar-Signale
+164.Welche Informationen enthält die Aussendung einer Satelliten-Seenotfunkbake
+(EPIRB)?
+1)a. Notsignal
+b. Identifikationsmerkmal
+c. Position mittels GPS, wenn vorhanden
+2)a. Notsignal
+b. Schiffstyp
+c. Art des Notfalls
+3)a. Position mittels GPS, wenn vorhanden
+b. Identifikationsmerkmal
+c. Zielhafen
+4)a. Art des Notfalls
+b. Position mittels GPS, wenn vorhanden
+c. Rufzeichen
+165.Wie lange dauert es in den Seegebieten A1 bis A3, bis der Alarm einer COSPAS-
+SARSAT- Satelliten-Seenotfunkbake (EPIRB) bei der zuständigen Seenotleitung (MRCC) [165]
+aufläuft?
+1)Wenige Minuten
+2)Bis zu 30 Minuten
+3)Bis zu 2 Stunden
+4)Bis zu 4 Stunden
+166.Wie lange kann es unter ungünstigen Bedingungen von der Aktivierung einer COSPAS-
+SARSAT-Satelliten-Seenotfunkbake ohne GPS bis zum Empfang der Position im MRCC
+dauern?
+1)Bis zu 4 Stunden
+2)Bis zu 8 Stunden
+3)Bis zu 12 Stunden
+4)Bis zu einem Tag
+167.Warum dauert es unter ungünstigen Bedingungen von der Aktivierung einer
+COSPAS-SARSAT-Satelliten-Seenotfunkbake ohne GPS bis zum Empfang der
+Position im MRCC bis zu vier Stunden?
+1)Es müssen Überflüge der umlaufenden COSPAS-SARSAT-Satelliten (LEOSAR) abgewartet
+werden
+2)Die niedrige Datenrate im Uplink ermöglicht keine hohe Übertragungsgeschwindigkeit
+3)Hoher Seegang behindert die Funkwellenausbreitung zum geostationären
+COSPAS-SARSAT-Satelliten (GEOSAR)
+4)Schlechte Wetterverhältnisse behindern die Übertragung der Daten vom
+COSPAS-SARSAT-Satelliten zur Bodenstation (LUT)
+168.Wie groß ist die maximale Abweichung der ermittelten von der tatsächlichen Position
+einer COSPAS-SARSAT-Seenotfunkbake (EPIRB) ohne GPS?
+1)2 sm
+2)10 sm
+3)100 sm
+4)150 sm
+169.Zu welchem Zweck benutzen Satelliten-Seenotfunkbaken (EPIRB) die Frequenzen
+121,5 MHz und 406 MHz?
+1)121,5 MHz zur Zielfahrt (Homing), 406 MHz zur Alarmierung und Positionsbestimmung
+2)121,5 MHz zur Zielfahrt (Homing), 406 MHz zur Kommunikation
+3)121,5 MHz zur Identifikation, 406 MHz zur Zielfahrt (Homing)
+4)121,5 MHz zur Kommunikation, 406 MHz zur Alarmierung und Positionsbestimmung
+170.Welche Informationen müssen an einer Satelliten-Seenotfunkbake (EPIRB)
+erkennbar sein?
+1)a. Schiffsname/Rufzeichen/MMSI oder anderes Identifikationsmerkmal
+b. Seriennummer
+c. Haltbarkeitsdatum der Batterie
+d. Haltbarkeitsdatum des Wasserdruckauslösers
+2)a. Herstellerfirma
+b. Haltbarkeitsdatum des Wasserdruckauslösers
+c. Zulassungsdatum der EPIRB
+d. Kurzanleitung
+3)a. Herstellerfirma
+b. Schiffsname/Rufzeichen/MMSI oder anderes Identifikationsmerkmal
+c. Prüfdatum
+d. Sendefrequenz
+4)a. Kurzanleitung
+b. Zulassungsdatum der EPIRB
+c. Schiffsname/Rufzeichen/MMSI oder anderes Identifikationsmerkmal
+d. Haltbarkeitsdatum der Batterie
+171.Was ist zu tun, bevor die Satelliten-Seenotfunkbake (EPIRB) für Wartungszwecke aus
+ihrer Halterung entfernt werden soll?
+1)Sicherstellen, dass kein Fehlalarm ausgelöst wird
+2)Sicherung lösen
+3)MRCC informieren
+4)Keine besonderen Vorkehrungen treffen
+172.Welche Prüfungen sind an einer Satelliten-Seenotfunkbake (EPIRB) durchzuführen?
+1)Haltbarkeitsdatum der Batterie, Haltbarkeitsdatum des Wasserdruckauslösers, Funktion
+entsprechend den Herstellerangaben
+2)Haltbarkeitsdatum der Batterie, Haltbarkeitsdatum des Wasserdruckauslösers,
+Befestigung am Schiffskörper
+3)Funktion entsprechend den Herstellerangaben, Haltbarkeitsdatum der Batterie,
+Festigkeit der Sicherheitsleine
+4)Haltbarkeitsdatum des Wasserdruckauslösers, Lesbarkeit der Beschriftung, Kontakte der
+Batterien
+173.Wie erscheint die Aussendung eines Transponders für Suche und Rettung (SART) auf
+einem Radarbildschirm?
+1)Als Linie von mindestens zwölf Zeichen
+2)Die Aussendung eines Transponders ist auf dem Radarschirm nicht sichtbar
+3)Als lange aus einem Zeichen bestehende Linie
+4)Als Linie von mindestens drei Zeichen
+174.Welches Navigationsgerät empfängt das Signal eines aktivierten Transponders für
+Suche und Rettung (SART)?
+1)Radargerät
+2)GPS-Empfänger
+3)DSC-Controller
+4)NAVTEX-Gerät
+175.Welche Vorteile hat eine UKW-Seefunkanlage gegenüber einem Mobiltelefon in einer
+Notsituation?
+1)Allgemeine und sichere Alarmierungsmöglichkeit
+2)Hohe und gleichbleibende Sprachqualität
+3)Wahrung des Fernmeldegeheimnisses und des Abhörverbots
+4)Digitale und sichere Sprachübertragung
+176.Welchen Vorteil hat eine UKW-Seefunkanlage gegenüber einem Mobiltelefon, wenn
+in einer Notsituation andere Fahrzeuge in Sicht sind und um Hilfe gebeten werden
+sollen?
+1)Erreichbarkeit aller in Funkreichweite befindlichen Seefunkstellen
+2)Erreichbarkeit aller Seefunkstellen im Seegebiet A1
+3)Erreichbarkeit aller Rettungsfahrzeuge in Küstennähe
+4)Erreichbarkeit aller Seefunkstellen in den Seegebieten A1 und A2
+177.Warum ist ein Mobiltelefon gegenüber einer UKW-Seefunkanlage keine Alternative,
+wenn in einer Notsituation die Such- und Rettungsmaßnahmen anderen Fahrzeugen
+bekannt gemacht werden müssen?
+1)Telefongespräche können von weiteren Fahrzeugen nicht mitgehört werden, wichtige
+Informationen zur Hilfeleistung und Rettung sind nicht für alle Beteiligten verfügbar
+2)Telefongespräche können von weiteren Fahrzeugen nicht bestätigt werden, der
+Seenotleitung (MRCC) fehlen daher wichtige Informationen
+3)Telefongespräche können von Küstenfunkstellen nicht bestätigt werden, wichtige
+Informationen fehlen daher für die Koordination vor Ort
+4)Telefongespräche können vom On-Scene-Coordinator (OSC) nicht mitgehört werden,
+wichtige Informationen sind nur bei der Seenotleitung (MRCC) vorhanden
+178.Mit welcher Meldung werden die Funkstellen davon unterrichtet,
+dass der Notverkehr beendet ist?
+1)Meldung, die mit SILENCE FINI abschließt
+2)Meldung, die mit SILENCE MAYDAY abschließt
+3)Meldung, die mit OVER AND OUT abschließt
+4)Meldung, die mit MASTER abschließt
+179.Welche Funktion hat ein Transponder für Suche und Rettung
+(Search and Rescue Transponder [SART])?
+1)Aussendung von Ortungsfunksignalen, die im Seenotfall das Auffinden des
+verunglückten Fahrzeuges mittels Radar erleichtern sollen
+2)Automatische Aussendung der Notposition über UKW an Küsten- bzw. Schiffsfunkstellen
+3)Automatische Übermittlung der Position des in Not befindlichen Fahrzeuges über die
+COSPAS-SARSAT-Satelliten
+4)Reflexion von Radarstrahlen und Erzeugung eines deutlichen Echos auf
+Radarbildschirmen
+180.Welche Funktion hat eine Satelliten-Seenotfunkbake
+(Emergency Position-Indicating Radiobeacon [EPIRB])?
+1)Alarmierung und Kennzeichnung der Notposition
+2)Kommunikation im VHF-Band zwischen Überlebensfahrzeug und SAR- Fahrzeugen bzw.
+dem MRCC
+3)Aussendung einer Notmeldung auf den Notfrequenzen der Luftfahrt
+(121,5 MHz bzw. 243 MHz), die von den Luftfahrzeugen bestätigt wird
+4)Ermöglichen der Ortung mittels Radar und Erleichterung des Auffindens des Havaristen

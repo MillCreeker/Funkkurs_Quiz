@@ -1,0 +1,195 @@
+85.Wie ist die Rangfolge der Aussendungen im Seefunkdienst festgelegt?
+1)Not, Dringlichkeit, Sicherheit, Routine
+2)Not, Sicherheit, Dringlichkeit, Routine
+3)Routine, Sicherheit, Dringlichkeit, Not
+4)Routine, Dringlichkeit, Sicherheit, Not
+86.Welche Vorkommnisse im Seefunkdienst sollen im Schiffstagebuch dokumentiert
+werden?
+1)Der Not-, Dringlichkeits- und Sicherheitsverkehr sowie wichtige Vorkommnisse, die den
+Seefunkdienst betreffen
+2)Der Not-, Dringlichkeits- und Sicherheitsverkehr sowie der Routineverkehr zwischen
+Seefunkstellen und Küstenfunkstellen
+3)Der gesamte DSC-Verkehr sowie wichtige Vorkommnisse, die den Seefunkdienst
+betreffen
+4)Der GMDSS-Verkehr zwischen Seefunkstellen sowie Fehlalarme und andere wichtige
+Vorkommnisse, die den Seefunkdienst betreffen
+87.Welchem Funkverkehr ist der Nachrichtenaustausch zwischen Küstenfunkstellen des
+Revier- und Hafenfunkdienstes und Seefunkstellen zuzuordnen?
+1)Nichtöffentlicher Funkverkehr
+2)On Board Traffic
+3)Port Radio
+4)Öffentlicher Funkverkehr
+88.Wozu dient der Revier- und Hafenfunkdienst?
+1)Übermittlung von Nachrichten, die ausschließlich das Führen, die Fahrt und die
+Sicherheit von Schiffen auf dem Revier, innerhalb oder in der Nähe von Häfen betreffen
+2)Zuweisung von Liegeplätzen innerhalb oder in der Nähe von Häfen
+3)Verbreitung von Wetterberichten auf dem Revier, innerhalb oder in der Nähe von Häfen
+4)Nachrichtenaustausch innerhalb oder in der Nähe von Häfen über das öffentliche Netz
+89.Welcher Funkdienst gehört neben dem Revier- und Hafenfunkdienst ebenfalls zum
+Sicherheitsfunkdienst innerhalb des mobilen Seefunkdienstes?
+1)Schiffslenkungsfunkdienst
+2)Lotsenfunk
+3)Schleusenfunk
+4)Binnenschifffahrtsfunk
+90.Wer bestimmt bei einer Verbindung zwischen See- und Küstenfunkstelle den für die
+weitere Verkehrsabwicklung zu benutzenden Arbeitskanal?
+1)Küstenfunkstelle
+2)Seefunkstelle
+3)On-Scene Co-ordinator (OSC)
+4)Rufende Funkstelle
+91.Wie ist eine Küstenfunkstelle des Revier- und Hafenfunkdienstes gekennzeichnet?
+1)Geografischer Name des Ortes, dem die Art des Dienstes und das Wort Radio folgen
+2)Wort Radio, dem die Art des Dienstes und der geografische Name des Ortes folgen
+3)Geografischer Name des Ortes, dem das Wort Radio und die Art des Dienstes folgen
+4)Radio, dem der geografische Name des Ortes und die Art des Dienstes folgen
+92.Welche Funkstelle wird mit dem Rufnamen „Warnemünde Traffic“ gerufen?
+1)Küstenfunkstelle des Revierfunkdienstes in Warnemünde
+2)Wasserschutzpolizei Warnemünde
+3)Seefunkstelle der DGzRS-Station Warnemünde
+4)Funkstelle des Hafenmeisters der Marina in Warnemünde
+93.Was zeigt das Dringlichkeitszeichen an?
+1)Die rufende Funkstelle hat eine sehr dringende Meldung auszusenden, welche die
+Sicherheit einer mobilen Einheit oder einer Person betrifft
+2)Die rufende Funkstelle hat eine Meldung auszusenden, dass ein Schiff von einer ernsten
+und unmittelbaren Gefahr bedroht ist und sofortige Hilfe benötigt
+3)Die rufende Funkstelle hat eine eilige Meldung auszusenden, die eine nautische
+Warnnachricht zum Inhalt hat
+4)Die rufende Funkstelle hat eine wichtige Meldung auszusenden, welche den Empfang
+einer Seenotfunkbake (EPIRB) bestätigt
+94.Wie lautet das Dringlichkeitszeichen im Sprechfunk?
+1)PAN PAN
+2)SECURITE
+3)MAYDAY
+4)URGENCY
+95.Was wird im Sprechfunk durch das Zeichen PAN PAN angekündigt?
+1)Dringlichkeitsmeldung
+2)Notmeldung
+3)Sicherheitsmeldung
+4)Routinemeldung
+96.Wie ist im GMDSS zu verfahren, wenn eine dringende Meldung im UKW-Bereich
+auszusenden ist, welche die Sicherheit einer Person betrifft?
+1)Ankündigung per Digitalen Selektivruf (DSC) auf Kanal 70 und Aussendung der
+Dringlichkeitsmeldung im Sprechfunk auf Kanal 16
+2)Ankündigung und Aussendung der Dringlichkeitsmeldung im Sprechfunk auf Kanal 16
+3)Ankündigung im Sprechfunk auf Kanal 16 und Aussendung der Dringlichkeitsmeldung
+auf einem Schiff-Schiff-Kanal
+4)Ankündigung per Digitalem Selektivruf (DSC) auf Kanal 70 und Aussendung der
+Dringlichkeitsmeldung auf einem Schiff-Schiff-Kanal
+97.Was bedeutet im DSC-Controller die Anzeige „URGENCY“?
+1)Die nachfolgende Meldung ist dringend und betrifft die Sicherheit einer mobilen
+Einheit oder einer Person
+2)Die nachfolgende Meldung ist eine Notmeldung und die Seefunkstelle erbittet
+sofortige Hilfe
+3)Die nachfolgende Meldung ist dringend und die Seefunkstelle erbittet nautische
+Beratung
+4)Die nachfolgende Meldung ist eine Wetterwarnung und betrifft die Sicherheit
+der Schifffahrt
+98.An wen dürfen Dringlichkeitsmeldungen im Seefunkdienst grundsätzlich gerichtet
+werden?
+1)An alle Funkstellen oder an eine bestimmte Funkstelle
+2)An alle Funkstellen im Seegebiet A1 oder an eine bestimmte Funkstelle im Seegebiet A1
+3)An alle Küstenfunkstellen oder an alle Funkstellen im Seegebiet A1
+4)An alle Küstenfunkstellen oder die Seenotleitung (MRCC)
+99.Wie ist zu verfahren, wenn eine an alle Funkstellen ausgesendete Dringlichkeits-
+meldung erledigt ist?
+1)Dringlichkeitsmeldung muss durch eine Meldung an alle Funkstellen aufgehoben werden
+2)Dringlichkeitsmeldung muss bei dem Fall „Mensch über Bord“ durch eine Meldung
+an alle Funkstellen aufgehoben werden
+3)Dringlichkeitsmeldung muss durch eine Meldung an die nächste Küstenfunkstelle
+aufgehoben werden
+4)Dringlichkeitsmeldung muss durch die Meldung SILENCE FINI aufgehoben werden
+100.Wie lautet das Sicherheitszeichen im Seefunkdienst?
+1)SECURITE
+2)URGENCY
+3)PAN PAN
+4)MAYDAY
+101.Welche Meldung wird mit SECURITE eingeleitet?
+1)Sicherheitsmeldung
+2)Notmeldung
+3)Dringlichkeitsmeldung
+4)Routinemeldung
+102.Welchen Inhalt kann eine Sicherheitsmeldung haben?
+1)Wichtige nautische Warnnachricht oder eine wichtige Wetterwarnung
+2)Wichtige nautische Warnnachricht oder die Weiterleitung eines Notalarms
+3)Aufhebung eines Fehlalarms oder eine wichtige Wetterwarnung
+4)Aufhebung einer Dringlichkeitsmeldung oder ein Medico-Gespräch
+103.Welche UKW-Kanäle benutzen Sportfahrzeuge für den Funkverkehr untereinander
+vorzugsweise in den deutschen Hoheitsgewässern?
+1)Kanäle 69 oder 72
+2)Kanäle 69 oder 70
+3)Kanäle 10 oder 13
+4)Kanäle 06 oder 16
+104.Für welche Verkehrsabwicklungen werden UKW-Handsprechfunkgeräte vorzugs-
+weise verwendet?
+1)Funkverkehr an Bord, Funkverkehr Schiff–Überlebensfahrzeug
+2)Funkverkehr Schiff–Schiff, Funkverkehr Schiff–SAR-Hubschrauber)
+3)Funkverkehr an Bord, Funkverkehr Schiff–Hafen
+4)Funkverkehr mit Küstenfunkstellen, Funkverkehr Schiff–Überlebensfahrzeug
+105.Was ist bei Testsendungen im Sprech-Seefunkdienst zu beachten?
+1)Die Aussendungen dürfen 10 Sekunden nicht überschreiten, müssen mit dem Wort
+„Test“ und mit einer Kennung des Schiffes ausgestrahlt werden
+2)Die Aussendungen dürfen 20 Sekunden nicht überschreiten und müssen mit einer
+Kennung des Schiffes ausgestrahlt werden
+3)Die Aussendungen dürfen nur einmal nach Einbau des Gerätes ohne Antenne erfolgen
+und müssen mit dem Wort „Test“ gekennzeichnet werden
+4)Die Aussendungen dürfen nur außerhalb der Hoheitsgewässer erfolgen
+106.Betriebsart wird für den Schiff-Schiff-Verkehr auf UKW im Sprechfunkverfahren
+verwendet?
+1)Wechselsprechen auf einer Frequenz
+2)Gegensprechen auf einer Frequenz
+3)Wechselsprechen auf zwei Frequenzen
+4)Gegensprechen auf zwei Frequenzen
+107.Der UKW-Kanal 70 dient ausschließlich dem Zweck der Aussendung ...
+1)des Digitalen Selektivrufs
+2)von Peilzeichen
+3)von Positionsmeldungen
+4)von Küstenfunkstellen
+108.Welchen Zwecken dient der UKW-Kanal 16 (156,8 MHz) im Seefunkdienst?
+1)Notverkehr, Dringlichkeitsmeldung, Ankündigung einer Sicherheitsmeldung, Anrufkanal
+2)Notverkehr, Ankündigung einer Sicherheitsmeldung, Routineverkehr, Anrufkanal
+3)Aussendung des digitalen Selektivrufs
+4)Funkverkehr zwischen Fischereifahrzeugen
+109.Auf welchem UKW-Kanal muss ein Sportfahrzeug empfangsbereit sein, wenn es sich
+auf See befindet und mit einer GMDSS-Seefunkanlage ausgerüstet ist?
+1)Kanal 70
+2)Kanal 16
+3)Kanal 69
+4)Kanal 72
+110.Auf welchem UKW-Kanal sollte ein Sportfahrzeug in der Regel empfangsbereit sein,
+wenn es sich auf See befindet und nur mit einer UKW-Sprechfunkanlage ausgerüstet
+ist?
+1)Kanal 16
+2)Kanal 70
+3)Kanal 69
+4)Kanal 06
+111.Welcher UKW-Kanal ist vorzugsweise für den Schiff-Schiff-Verkehr und für
+koordinierte Such- und Rettungseinsätze (SAR) vorgesehen?
+1)Kanal 06
+2)Kanal 10
+3)Kanal 16
+4)Kanal 72
+112.Welchen Zwecken dienen der Anrufkanal und ein Arbeitskanal?
+[112]
+1)Anrufkanal zur Verbindungsaufnahme, Arbeitskanal zur Abwicklung des Weiteren
+Funkverkehrs
+2)Anrufkanal zur Verbindungsaufnahme, Arbeitskanal nur zur Abwicklung von Notfällen
+3)Anrufkanal zur Verbindungsaufnahme, Arbeitskanal zur Abwicklung von Reiseplanungen
+4)Anrufkanal zur Verbindungsaufnahme mit Teilnehmern an Land, Arbeitskanal zur
+Zuweisung des Schleusenranges
+113.Auf welchem Kanal ist eine Küstenfunkstelle zu rufen, die sowohl auf dem Kanal 70 als
+[113]
+auch auf Kanal 16 sowie auf einem veröffentlichten Arbeitskanal empfangsbereit ist?
+1)Kanal 70 oder Arbeitskanal
+2)Kanal 16 oder Kanal 70
+3)Kanal 70 oder Kanal 72
+4)Kanal 16 oder Arbeitskanal
+114.Auf welchem Kanal wird eine Küstenfunkstelle ohne DSC im Routineverkehr gerufen?
+1)Arbeitskanal
+2)Kanal 16
+3)Ankündigung auf Kanal 16, dann Wechsel zum Arbeitskanal
+4)Kanal 70
+115.Was ist vor dem Anruf auf einem Arbeitskanal zu beachten?
+1)Der laufende Funkverkehr darf nicht gestört werden
+2)Die geringste Sendeleistung muss eingestellt werden
+3)Die Küstenfunkstelle muss den Arbeitskanal freigeben
+4)Der laufende Funkverkehr muss aufgefordert werden, den Funkverkehr zu beenden

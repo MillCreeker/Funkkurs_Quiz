@@ -1,0 +1,148 @@
+1.„Mobiler Seefunkdienst“ ist mobiler Funkdienst …
+[1]
+1)zwischen Küstenfunkstellen und Seefunkstellen bzw. zwischen Seefunkstellen
+untereinander
+2)zwischen tragbaren Funkstellen an Bord eines Seefahrzeuges
+3)ausschließlich zwischen Seefunkstellen
+4)zwischen Funkstellen, für die keine Zuteilung (Ship Station Licence) notwendig ist
+2.Welche Funktion hat das „GMDSS“ (Global Maritime Distress and Safety System)?
+1)Hilfe in Seenotfällen und Sicherung der Schifffahrt durch schnelle und genaue
+Alarmierung im Seenotfall
+2)Koordinierung der Alarmierung von Seefunkstellen im Seenotfall
+3)Positionsbestimmung des Havaristen durch geostationäre Satelliten
+4)Störungsfreier Funkverkehr im Seenotfall
+3.Zu welchem Zweck wurde das Weltweite Seenot- und Sicherheitsfunksystem (GMDSS)
+[3]
+eingeführt?
+1)Schnelle und genaue Alarmierung in Not-, Dringlichkeits- und Sicherheitsfällen
+2)Schnelle Alarmierung in Notfällen
+3)Schnelle und genaue Alarmierung in Not- und Dringlichkeitsfällen
+4)Schnelle und genaue Alarmierung in Not- und Sicherheitsfällen
+4.Welche Aufgaben hat die Internationale Fernmeldeunion
+(International Telecommunication Union [ITU])?
+1)Die Internationale Fernmeldeunion (ITU) legt die grundlegenden Regelungen für die
+internationale Telekommunikation fest
+2)Die Internationale Fernmeldeunion (ITU) legt für alle Nationen der UN, die weltweit
+Seeschifffahrt betreiben, die Mindeststandards hinsichtlich der Funkausrüstung von
+Seeschiffen fest
+3)Die Internationale Fernmeldeunion (ITU) führt als internationale Verkehrsbehörde
+weltweit die Überwachung des Funkverkehrs durch
+4)Die Internationale Fernmeldeunion (ITU) rechnet die Gebühren von weltweiten
+Seefunkgesprächen ab
+5.Was regelt die Vollzugsordnung für den Funkdienst
+(VO Funk, engl. Radio Regulations [RR])?
+1)Die Vollzugsordnung für den Funkdienst (RR) regelt u. a. die Zuweisung von
+Frequenzbereichen an die Funkdienste und die Betriebsverfahren im Seefunkdienst
+2)Die Vollzugsordnung für den Funkdienst (RR) regelt die Ausrüstung von Seeschiffen
+bezüglich der Funkeinrichtung
+3)Die Vollzugsordnung für den Funkdienst (RR) regelt den freien Funkverkehr zwischen
+den Seefahrt betreibenden Nationen
+4)Die Vollzugsordnung für den Funkdienst (RR) regelt die Benutzung von Radaranlagen auf
+Seeschiffen auf See und in Häfen
+6.Welche Publikationen des Bundesamtes für Seeschifffahrt und Hydrographie (BSH)
+enthalten speziell für die Sportschifffahrt Informationen zum Seefunk?
+1)Funkdienst für die Klein- und Sportschifffahrt
+2)Nautisches Jahrbuch
+3)Nachrichten für Seefahrer
+4)Mitteilungen für Seefunkstellen und Schiffsfunkstellen
+7.Was ist eine „Küstenfunkstelle“?
+1)Ortsfeste Funkstelle des mobilen Seefunkdienstes
+2)Funkstelle an Bord eines Schiffes im Küstenbereich, über die wichtige Informationen
+für die Seeschifffahrt verbreitet werden
+3)Funkstelle des Rundfunkdienstes zur Übermittlung von Wetternachrichten für die
+Schifffahrt
+4)Funkstelle an Bord eines Schiffes für den Empfang von Funkgesprächen aus dem
+Mobilfunknetz
+8.Was bedeutet „öffentlicher Funkverkehr“?
+1)Funkverkehr, der der Allgemeinheit zum Austausch von Nachrichten dient
+2)Funkverkehr, der im Gegensatz zum Nichtöffentlichen Funkverkehr unverschlüsselt
+abgewickelt wird
+3)Funkverkehr, der von jeder Seefunkstelle abgehört werden muss
+4)Funkverkehr, der nicht dem Fernmeldegeheimnis und dem Abhörverbot unterliegt
+9.Für die Teilnahme am öffentlichen Funkverkehr ist – im Gegensatz zur Teilnahme
+am Nicht-öffentlichen Funkverkehr – zusätzlich erforderlich …
+1)Vertrag mit einer Abrechnungsgesellschaft
+2)Besitz eines Seefunkzeugnisses
+3)Zulassung des Funkgeräts
+4)Zuteilung (Ship Station Licence)
+10.Wodurch erfährt eine Seefunkstelle von einer Küstenfunkstelle, dass dort Nachrichten
+[10]
+für sie vorliegen?
+1)Individuelle Benachrichtigung oder Abhören von Sammelanrufen
+2)Individuelle Benachrichtigung durch die Abrechnungsgesellschaft
+3)Individuelle Benachrichtigung mittels SMS oder E-Mail
+4)Öffentliche Benachrichtigung mittels NAVTEX
+11.Was sind die Abrechnungsgrundlagen für ein Seefunkgespräch über eine deutsche
+Küstenfunkstelle?
+1)Gesprächsdauer und Preis der Verrechnungseinheiten
+2)Gesprächsdauer und Entfernung zur Küstenfunkstelle
+3)Gesprächsdauer und Frequenznutzungsgebühren
+4)Gesprächsdauer und Dringlichkeit des Gesprächs
+12.Was ist eine „Sea-Area“ im GMDSS?
+1)Festgelegtes Seegebiet
+2)International festgelegtes Seewarngebiet
+3)Im NAVTEX bestimmtes Seegebiet
+4)Weltweites Raster zum schnellen Auffinden von verunglückten Fahrzeugen
+13.Welche Bezeichnungen tragen die Seegebiete, in denen für Schiffe eine bestimmte
+Funkausrüstung international vorgeschrieben ist?
+1)A1, A2, A3, A4
+2)A, B, C, D
+3)NAVAREAS
+4)Küstengewässer, küstennahe Seegewässer, Hohe See
+14.Eine Yacht befindet sich in einem Seegebiet, das von der Sprechfunkreichweite einer
+UKW-Küstenfunkstelle abgedeckt wird, die ununterbrochen für DSC-Alarmierungen
+zur Verfügung steht. In welchem Seegebiet befindet sich das Fahrzeug?
+1)Seegebiet A1
+2)Seegebiet A2
+3)Seegebiet A3
+4)Seegebiet A4
+15.Welches sind die satellitengestützten Alarmierungssysteme im Weltweiten Seenot-
+und Sicherheitsfunksystem (GMDSS)?
+1)COSPAS-SARSAT, Inmarsat
+2)Eutelsat, Globalstar
+3)EPIRB, AIS
+4)DSC, COSPAS-SARSAT
+16.Was wird als „MSI“ bezeichnet?
+1)Nachricht, die die Sicherheit der Seeschifffahrt betrifft
+2)Rufnummer im Seefunkdienst (Maritime Mobile Service Identity)
+3)Mittlere Signalstärke des modulierten Eingangssignals
+4)Landeskennung einer Seefunkstelle
+17.Welche Aussendung wird als „WX" bezeichnet?
+1)Wetterbericht
+2)Nautische Warnnachricht
+3)Aussendung, die zurückgenommen wurde
+4)Funktelexaussendung im GMDSS
+18.Welche Aussendung wird als „NX" bezeichnet?
+1)Nautische Warnnachricht
+2)Wetterbericht
+3)Aussendung, die zurückgenommen wurde
+4)Funktelexaussendung im GMDSS
+19.Was versteht man unter „AIS“?
+1)Automatisches Schiffsidentifizierungs- und Überwachungssystem, das statische und
+dynamische Schiffsdaten auf UKW überträgt
+2)Automatische Aussendung der Kennung eines Seeschiffes jede Minute bzw. beim
+Loslassen der Sprechtaste
+3)Allgemeines Informationssystem für die Seeschifffahrt
+4)Identifizierung eines Schiffes mit Hilfe von Radarpeilungen und deren Weitergabe an die
+Schifffahrt zur Kollisionsverhütung
+20.Was bedeutet „ETA“?
+1)Voraussichtliche Ankunftszeit
+2)Voraussichtliche Abfahrtszeit
+3)Voraussichtliche Gesamtfahrtzeit
+4)Voraussichtliche Restfahrtzeit
+21.Wonach richten sich die Zeitangaben im Seefunkdienst?
+1)Koordinierte Weltzeit (Universal Time Co-ordinated [UTC])
+2)Bordzeit, berichtigt nach Sommer- oder Winterzeit
+3)Greenwich-Zeit (Greenwich Mean Time [GMT])
+4)Ortszeit, bezogen auf den Standort des Schiffes (Local Time [LT])
+22.Welche Bedeutung hat die Zeitangabe „LT“ (Local Time)?
+1)Ortszeit, bezogen auf den Standort des Schiffes
+2)Zeitzone entsprechend der geografischen Breite des Schiffsortes
+3)Zeit, die bei Funkaussendungen in einem bestimmten Seegebiet zu verwenden ist
+4)Zeit, die automatisch durch ein an die Funkanlage angeschlossenes GPS-Gerät
+übermittelt wird
+23.Wie bezeichnet man ein funkärztliches Beratungsgespräch?
+1)Medico-Gespräch
+2)Emergency-Gespräch
+3)Medical-Transport-Gespräch
+4)Erste-Hilfe-Gespräch

@@ -1,0 +1,195 @@
+24.Was ist eine „Seefunkstelle“?
+1)Funkstelle des mobilen Seefunkdienstes an Bord eines nicht dauernd verankerten
+Seefahrzeuges
+2)Typgeprüfte Funkstelle, die kein ATIS-Signal aussendet
+3)Seefunkgerät samt Antenne, das im UKW- bzw. Grenz- und Kurzwellenbereich
+betrieben wird
+4)Funkstelle, die am GMDSS teilnehmen darf
+25.Welches Funkzeugnis ist auf einem mit einer Seefunkanlage ausgerüsteten
+Sportfahrzeug unter deutscher Flagge für den Schiffsführer vorgeschrieben?
+1)Ein Funkzeugnis, das zum Bedienen der eingebauten Anlage berechtigt,
+z. B. SRC oder LRC
+2)Ein SRC bis zur Grenze der Hoheitsgewässer, darüber hinaus ein LRC
+3)Keines, es genügt, wenn eine Person an Bord ist, die die Funkanlage bedienen darf
+4)Für die Bedienung einer Grenz-/Kurzwellenanlage ist das LRC vorgeschrieben, für die
+Bedienung einer UKW-Anlage zusätzlich das SRC
+26.Welche Funkanlagen darf der Inhaber eines Beschränkt Gültigen
+Funkbetriebszeugnisses (Short Range Certificate [SRC]) bedienen?
+1)UKW-Funkanlagen im Seefunkdienst auf nicht funkausrüstungspflichtigen Fahrzeugen
+und auf Traditionsschiffen
+2)UKW-Funkanlagen für See- und Luftfunkstellen
+3)UKW-Funkanlagen auf Sportbooten im Seefunkdienst und Binnenschifffahrtsfunk
+4)UKW-Funkanlagen auf funkausrüstungspflichtigen und nicht funkausrüstungs-
+pflichtigen Seeschiffen
+27.Welche Sportboote müssen mit einer UKW-Seefunkanlage ausgerüstet sein?
+1)Gewerbsmäßig genutzte Sportboote mit einer Länge über alles von 12 m und mehr
+2)Sportboote mit einer Länge über alles von 12 m und mehr
+3)Sportboote mit einer Antriebsmaschine von 3,68 kW und mehr
+4)Gewerbsmäßig genutzte Sportboote mit einer Antriebsmaschine von 3,68 kW
+und mehr
+28.Welche rechtlichen Voraussetzungen sind für den Betrieb einer Seefunkstelle auf
+einem Sportfahrzeug und einem Traditionsschiff zu erfüllen?
+1)Zuteilung (Ship Station Licence), für den Seefunkdienst zugelassene oder in Verkehr
+gebrachte Funkgeräte, ausreichendes Seefunkzeugnis des Fahrzeugführers
+2)Zuteilung (Ship Station Licence), ausreichendes Seefunkzeugnis und
+Sportbootführerschein des Fahrzeugführers
+3)Zuteilung (Ship Station Licence), ausreichendes Seefunkzeugnis einer Person an Bord
+4)Zuteilung (Ship Station Licence), für den Seefunkdienst zugelassene oder in Verkehr
+gebrachte Funkgeräte, Sportbootführerschein
+29.Welche Urkunde und welcher Befähigungsnachweis müssen bei der Überprüfung
+einer Seefunkstelle auf einem Sportfahrzeug dem Prüfbeamten auf Verlangen
+vorgelegt werden?
+1)Zuteilung (Ship Station Licence) und Seefunkzeugnis des Fahrzeugführers
+2)Zuteilung (Ship Station Licence) und Sportbootführerschein des Fahrzeugführers
+3)Seefunkzeugnis eines Besatzungsmitgliedes und Internationaler Bootsschein (IBS)
+4)Seefunkzeugnis des Fahrzeugführers und Eigentumsnachweis
+30.Die Urkunde über die Zuteilung (Ship Station Licence) zum Betreiben einer
+Seefunkstelle wird in Deutschland ausgestellt durch …
+1)die Bundesnetzagentur (BNetzA), Außenstelle Hamburg
+2)die Bundesnetzagentur (BNetzA), Außenstelle Mülheim an der Ruhr
+3)das Bundesamt für Seeschifffahrt und Hydrographie (BSH), Rostock
+4)das Wasserstraßen- und Schifffahrtsamt, Hamburg
+31.Welche Urkunde für die Seefunkstelle muss auf einem Sportfahrzeug mitgeführt
+werden?
+1)Zuteilungsurkunde (Ship Station Licence) (im Original)
+2)Zuteilungsurkunde (Ship Station Licence) (in Kopie)
+3)Gerätezulassungsurkunde (im Original)
+4)Gerätezulassungsurkunde (in Kopie)
+32.Was und zu welchem Zweck muss ein Schiffseigner bei Änderung des Schiffsnamens
+in Bezug auf seine Seefunkstelle veranlassen?
+1)Namensänderung der Bundesnetzagentur schriftlich mitteilen zwecks Änderung seiner
+Zuteilungsurkunde (Ship Station Licence)
+2)Namensänderung dem Bundesamt für Seeschifffahrt und Hydrographie schriftlich
+mitteilen zwecks Änderung der Gerätezulassungsurkunde)
+3)Namensänderung dem Wasser- und Schifffahrtsamt, Hamburg schriftlich mitteilen
+zwecks Änderung des Kennzeichenausweises
+4)Namensänderung der Zentralen Verwaltungsstelle schriftlich mitteilen zwecks Änderung
+des Kennzeichenausweises
+33.Was muss ein Schiffseigner beim Austausch der UKW-Sprechfunkanlage gegen eine
+UKW-GMDSS-Funkanlage veranlassen?
+1)Schriftliche Mitteilung über die Umrüstung an die Bundesnetzagentur
+2)Schriftliche Mitteilung über die Umrüstung an das Bundesamt für Seeschifffahrt und
+Hydrographie
+3)Schriftliche Mitteilung über die Umrüstung an das Amtsgericht
+4)Schriftliche Mitteilung über die Umrüstung an die Zentrale Verwaltungsstelle
+34.Was ist beim Kauf eines UKW-Sprechfunkgeräts für den Seefunkdienst oder eines
+UKW-GMDSS-Funkgeräts zu beachten?
+1)Das Funkgerät muss für den Seefunkdienst zugelassen oder in Verkehr gebracht
+worden sein
+2)Das Funkgerät muss funktionsfähig und TÜV-geprüft sein
+3)Das Funkgerät muss eine NAVTEX-Schnittstelle aufweisen oder Wetterberichte
+empfangen können
+4)Das Funkgerät muss von der Dienststelle Schiffssicherheit der Berufsgenossenschaft
+Verkehrswirtschaft Post-Logistik Telekommunikation (BG Verkehr) für Sportboote
+zugelassen sein
+35.Wer stellt in Deutschland Funksicherheitszeugnisse für Sportboote aus, die
+gewerbsmäßig genutzt werden?
+1)Dienststelle Schiffssicherheit der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+Telekommunikation (BG Verkehr)
+2)Bundesamt für Seeschifffahrt und Hydrographie (BSH)
+3)Wasserstraßen- und Schifffahrtsverwaltung (WSV)
+4)Bundesnetzagentur (BNetzA)
+36.Ein Sportboot von 12 Meter Länge und mehr benötigt ein Funksicherheitszeugnis...
+1)bei gewerbsmäßiger Nutzung
+2)bei Regattateilnahme
+3)bei Auslandsfahrten und in internationalen Gewässern
+4)in jedem Fall
+37.Welche Sendeleistungen lassen sich bei einer fest installierten UKW-Seefunkanlage
+schalten?
+1)1 Watt oder maximal 25 Watt
+2)25 Watt oder maximal 50 Watt
+3)0,1 Watt oder maximal 2,5 Watt
+4)1 Watt oder maximal 12 Watt
+38.Welche Behörde erteilt in Deutschland sechsstellige Rufzeichen für Seefunkstellen?
+1)Bundesnetzagentur (BNetzA), Außenstelle Hamburg
+2)Bundesnetzagentur (BNetzA), Außenstelle Mülheim an der Ruhr
+3)Bundesamt für Seeschifffahrt und Hydrographie (BSH), Hamburg
+4)Wasser- und Schifffahrtsamt (WSA), Hamburg
+39.Welche Behörden in Deutschland sind berechtigt, die Funktionsfähigkeit von
+Seefunkstellen zu überprüfen?
+1)Bundesnetzagentur (BNetzA) und Bundesamt für Seeschifffahrt und
+Hydrographie (BSH)
+2)Wasser- und Schifffahrtsdirektionen
+3)Wasserschutzpolizeibehörden der Küstenländer
+4)Hafenbehörden in den Seehäfen
+40.Welche Behörde teilt einer in das Seeschiffsregister eingetragenen Yacht das
+mindestens vierstellige Unterscheidungssignal zu?
+1)Seeschiffsregister des zuständigen Amtsgerichts
+2)Wasser- und Schifffahrtsverwaltung (WSV)
+3)Bundesnetzagentur (BNetzA)
+4)Bundesamt für Seeschifffahrt und Hydrographie (BSH)
+41.Welche Art von Funkstelle hat z. B. das Rufzeichen „DDTW“?
+1)Seefunkstelle an Bord eines deutschen Schiffes, eingetragen in einem Seeschiffsregister
+2)Küstenfunkstelle des Schiffsmeldedienstes (SMD)
+3)Funkstelle des Nichtöffentlichen Funkdienstes
+4)Funkstelle an Bord eines SAR-Hubschraubers
+42.Das Abhörverbot und das Fernmeldegeheimnis sind geregelt...
+1)im Telekommunikationsgesetz (TKG)
+2)in der Vollzugsordnung für den Funkdienst (VO Funk)/in den Radio Regulations (RR)
+3)in der Schiffssicherheitsverordnung (SchSV)
+4)im Gesetz über Funkanlagen und Telekommunikationseinrichtungen (FTEG)
+43.Wer ist beim Betrieb einer Seefunkstelle auf einem Sportboot zur Wahrung des
+Fernmeldegeheimnisses und des Abhörverbots verpflichtet?
+1)Alle Personen, die eine Seefunkstelle beaufsichtigen, bedienen oder Kenntnis über
+öffentlichen Nachrichtenaustausch erlangt haben
+2)Alle Personen, die ständig an Bord sind
+3)Alle Personen, die das Funkgerät bedienen können
+4)Alle Personen, die vom Schiffsführer ausdrücklich dazu verpflichtet worden sind
+44.Welche Nachrichten dürfen uneingeschränkt aufgenommen und verbreitet werden?
+1)Aussendungen, die „An alle Funkstellen“ gerichtet sind
+2)Aussendungen, die von allgemeinem Interesse sind
+3)Aussendungen im öffentlichen Seefunkdienst
+4)Aussendungen im Seefunkdienst dürfen uneingeschränkt aufgenommen und
+verbreitet werden
+45.Wenn ein Funkgerät ordnungsgemäß in Verkehr gebracht worden ist, trägt es...
+1)das CE-Zeichen
+2)eine Seriennummer
+3)das GS-Prüfzeichen
+4)das VDE-Prüfzeichen
+46.Zur Teilnahme am Binnenschifffahrtsfunk muss eine Seefunkstelle...
+1)mit einer umschaltbaren „Kombi-Anlage für Seefunkdienst und Binnenschifffahrtsfunk“
+oder einer zusätzlichen Sprechfunkanlage für den Binnenschifffahrtsfunk ausgerüstet
+werden
+2)mit einer weiteren Seefunkanlage ausgerüstet werden
+3)nicht geändert werden
+4)mit der MMSI auch eine ATIS-Kennung aussenden
+47.Das Seefunkgerät nimmt bei Empfang einen Strom von 0,5 Ampere auf. Wie lange
+kann das Funkgerät im Empfangsbetrieb an einer Batterie ohne Nachladen
+überschlägig betrieben werden, wenn die Kapazität 60 Amperestunden beträgt?
+1)120 Stunden
+2)30 Stunden
+3)60 Stunden
+4)90 Stunden
+48.Welche Auswirkung auf die Betriebsdauer einer Batterie hat der Sendebetrieb einer
+Seefunkanlage im Vergleich zum Empfangsbetrieb?
+1)Betriebsdauer wird verkürzt
+2)Betriebsdauer wird halbiert
+3)Betriebsdauer wird verlängert
+4)Betriebsdauer bleibt gleich
+49.Wie hoch ist die mittlere Stromaufnahme einer UKW-Seefunkanlage im
+Empfangsbetrieb?
+1)Je nach Anlage zwischen 0,3 A und 1 A
+2)Je nach Anlage zwischen 0,1 A und 0,2 A
+3)Je nach Anlage zwischen 1 A und 2 A
+4)Je nach Anlage zwischen 2 A und 3 A
+50.Wie hoch ist die mittlere Stromaufnahme einer UKW-Seefunkanlage im Sendebetrieb
+bei 25 Watt Sendeleistung?
+1)Zwischen 4 und 8 Ampere
+2)Zwischen 1 und 2 Ampere
+3)Zwischen 2 und 3 Ampere
+4)Zwischen 10 und 12 Ampere
+51.Wozu dient am UKW-Gerät die Rauschsperre (Squelch)?
+1)Der Lautsprecher des Empfängers wird nur ab einem Mindest-Empfangssignalpegel
+aktiviert
+2)Das Rauschen kann stufenlos auf einen angenehmen Wert eingestellt werden
+3)Die Rauschsperre verbessert die Wiedergabe von schwachen Empfangssignalen
+4)Der Lautsprecher des Empfängers wird nur beim Empfang von Notsignalen aktiviert
+52.Welche Eigenschaften des „GPS“ sind für eine GMDSS-Funkanlage von besonderer
+Bedeutung?
+1)Mit Hilfe von GPS kann die genaue Position des Fahrzeugs bestimmt und übermittelt
+werden. Ebenso kann die genaue Zeit bestimmt werden
+2)Mit Hilfe von GPS ist ein weltweiter Funkverkehr über Satellit zwischen Schiffen
+untereinander bzw. mit Küstenfunkstellen möglich
+3)Mit Hilfe von GPS besteht die Möglichkeit der Kommunikation über Inmarsat bzw.
+COSPAS-SARSAT
+4)Mit Hilfe von GPS erfolgt die Kommunikation mit der Rettungsleitstelle über Satellit

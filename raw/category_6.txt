@@ -1,0 +1,54 @@
+116.Was bedeutet „NAVTEX“?
+1)Nautische Warnnachrichten im Funktelexverfahren
+2)Navigationssystem, das Vorgaben im Funktelexverfahren erhält
+3)MW-Empfänger an Bord eines Seeschiffes zur Aufzeichnung von Wetterberichten
+4)Satellitengestütztes Navigationssystem für den Seenotfall
+117.Wie heißt der Dienst, in dem Nachrichten für die Sicherheit der Seeschifffahrt (MSI)
+über terrestrische Frequenzen verbreitet werden?
+1)NAVTEX
+2)SafetyNET
+3)AIS
+4)AMVER
+118.Welchen Dienst bieten der Deutsche Wetterdienst (DWD) und das Bundesamt für
+Seeschifffahrt und Hydrographie (BSH) auf den Frequenzen 518 kHz und 490 kHz
+gemeinsam an?
+1)NAVTEX
+2)SafetyNET
+3)TELEX
+4)AMVER
+119.Bis zu welcher Entfernung vom Standort des Senders können Sicherheitsmeldungen
+für die Seeschifffahrt im NAVTEX-Dienst empfangen werden?
+1)Ca. 600 sm
+2)Ca. 30 sm
+3)Ca. 1000 sm
+4)Ca. 1500 sm
+120.Worauf muss beim Einstellen eines NAVTEX-Empfängers geachtet werden?
+1)Einstellen der jeweiligen NAVTEX-Sender und Auswählen der Art der benötigten
+Meldungen
+2)Auswählen der gewünschten NAVTEX-Sender und Eingeben der MMSI-Rufnummer
+3)Eingeben der eigenen Position und Auswählen der Art der benötigten Meldungen
+4)Auswählen der Sprache, in der die Nachricht empfangen werden soll, und Unterdrücken
+nicht benötigter Meldungen
+121.Welche Informationen können bei der Programmierung eines NAVTEX-Empfängers
+nicht unterdrückt werden?
+1)Navigationswarnungen, Meteorologische Warnungen und SAR-Meldungen
+2)Navigationswarnungen, Wettervorhersagen und SAR-Meldungen
+3)Sat-Nav-Warnungen, Meteorologische Warnungen und Navigationswarnungen
+4)Meteorologische Warnungen, Revierinformationen und SAR-Meldungen
+122.In welcher Sprache werden Nachrichten für die Sicherheit der Seeschifffahrt (MSI)
+im NAVTEX-Dienst auf 490 kHz verbreitet?
+1)Landessprache der Funkstelle
+2)Englisch
+3)Niederländisch
+4)Französisch
+123.In welchen Zeitabständen werden die regelmäßigen NAVTEX-Informationen vom
+deutschen NAVTEX-Sender ausgesendet?
+1)4 Stunden
+2)1 Stunde
+3)12 Stunden
+4)24 Stunden
+124.Was bezeichnet „NAVAREA“?
+1)International festgelegtes Vorhersage- und Seewarngebiet
+2)Internationales Seegebiet, das nicht befahren werden darf
+3)Internationales Seegebiet, das in vier Gruppen eingeteilt ist (A1 bis A4)
+4)Internationales Seegebiet, das von Seeschiffen befahren werden darf

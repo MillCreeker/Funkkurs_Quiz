@@ -1,0 +1,88 @@
+69.Wie wird der Frequenzbereich von 30 bis 300 MHz bezeichnet?
+1)Ultrakurzwelle (UKW/VHF)
+2)Langwelle (LW/LF)
+3)Mittelwelle (MW/MF)
+4)Kurzwelle (KW/HF)
+70.Welches Funkzeugnis muss der Führer eines Sportfahrzeugs oder Traditionsschiffes,
+das mit einer UKW-Seefunkstelle ausgerüstet ist, mindestens besitzen, um am GMDSS
+teilnehmen zu dürfen?
+1)Beschränkt Gültiges Funkbetriebszeugnis (Short Range Certificate)
+2)Allgemeines Sprechfunkzeugnis für den Seefunkdienst
+3)UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk
+4)Allgemeines Betriebszeugnis für Funker (General Operator’s Certificate)
+71.An welchem Funkdienst darf der Inhaber eines Beschränkt Gültigen
+Funkbetriebszeugnisses (SRC) teilnehmen?
+1)Mobiler Seefunkdienst auf Ultrakurzwelle (UKW/VHF)
+2)Mobiler Seefunkdienst auf Ultrakurzwelle (UKW/VHF) einschließlich Satellitenfunk
+3)Mobiler Seefunkdienst auf Kurzwelle (KW/HF) und Grenzwelle (GW/MF), außer
+Satellitenfunk
+4)Mobiler Seefunkdienst auf Ultrakurzwelle (UKW/VHF) einschließlich
+Grenzwelle/Kurzwelle
+72.Was kennzeichnet die Betriebsart „Duplex“?
+1)Gegensprechen auf zwei Frequenzen
+2)Wechselsprechen auf einer Frequenz
+3)Gegensprechen auf einer Frequenz
+4)Wechselsprechen auf zwei Frequenzen
+73.Was kennzeichnet die Betriebsart „Simplex“?
+1)Wechselsprechen auf einer Frequenz
+2)Gegensprechen auf einer Frequenz
+3)Wechselsprechen auf zwei Frequenzen
+4)Gegensprechen auf zwei Frequenzen
+74.Welche Betriebsart wird als „Semi-Duplex“ bezeichnet?
+1)Wechselsprechen auf zwei Frequenzen
+2)Gegensprechen auf zwei Frequenzen
+3)Gegensprechen auf einer Frequenz
+4)Wechselsprechen auf einer Frequenz
+75.Welche UKW-Kanäle sind international ausschließlich für den Funkverkehr zwischen
+Seefunkstellen vorgesehen?
+1)Kanäle 06, 08, 72 und 77
+2)Kanäle 15 und 17
+3)Kanäle 16, 69, 70 und 82
+4)Kanäle 16 und 18, ersatzweise 70
+76.Für welchen Funkverkehr dürfen die UKW-Kanäle 75 und 76 benutzt werden?
+1)Funkverkehr, der ausschließlich die Navigation betrifft
+2)Funkverkehr, der ausschließlich See-Land-Verbindungen betrifft
+3)Funkverkehr unter Behördenfahrzeugen
+4)Funkverkehr, der ausschließlich Land-See-Verbindungen betrifft
+77.Atmosphärische Störungen des Funkverkehrs sind …
+1)im Seefunkverkehr im VHF-Bereich kein Problem
+2)im Seefunkverkehr im VHF-Bereich ein großes Problem
+3)gleichzeitig im VHF-Bereich und beim NAVTEX-Empfang vorhanden
+4)im VHF-Bereich nur bei Verwendung von nicht vertikal angebrachten Antennen
+vorhanden
+78.Wie breiten sich Ultrakurzwellen (UKW/VHF) aus?
+1)Geradlinig und quasioptisch
+2)Abhängig von der Tageszeit
+3)Der Erdkrümmung folgend bis weit hinter den Horizont
+4)In der Ionosphäre reflektiert
+79.Wie werden die internationalen Kanäle im UKW-Seefunkbereich bezeichnet?
+1)Kanal 1 bis 28 und 60 bis 88
+2)Kanal 1 bis 20 und 68 bis 88
+3)Kanal 1 bis 28 und 60 bis 87
+4)Kanal 1 bis 28 und 68 bis 88
+80.Wovon hängt die Reichweite einer UKW-Funkanlage hauptsächlich ab?
+1)Antennenhöhe
+2)Bordnetzspannung
+3)Tageszeit
+4)Wetter
+81.Wie sollen UKW-Antennen ausgerichtet werden?
+1)Vertikal
+2)Horizontal
+3)Radial
+4)Diagonal
+82.Wodurch kann die Abstrahlung der Sendeenergie einer UKW-Anlage auf einem Schiff
+wesentlich beeinträchtigt werden?
+1)Metallische Gegenstände in der Nähe der Antenne
+2)Schräglage des Schiffs
+3)Metallische Gegenstände in der Nähe des Antennenkabels
+4)Wetter
+83.Was hat keinen Einfluss auf die Reichweite eines UKW-Handsprechfunkgerätes?
+1)Schlechtes Wetter
+2)Niedrige Antennenhöhe
+3)Geringer Ladezustand des Akkus
+4)Geringe Sendeleistung
+84.Ist das Senden auf UKW in ausländischen Häfen gestattet?
+1)Abhängig von entsprechenden Vorschriften des Landes
+2)Es ist immer gestattet
+3)Nur am Tage, in der Nacht herrscht Funkstille
+4)Außer in Notfällen ist es überall verboten
